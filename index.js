@@ -9,3 +9,5 @@ musicianInstrument[i]=musicianString;
 }
 return musicianInstrument;
 }
+
+function johnLennonFacts (){}
