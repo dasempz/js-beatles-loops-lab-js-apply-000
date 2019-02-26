@@ -35,4 +35,3 @@ function iLoveTheBeatles (n) {
 return strings;
 }
 
-
