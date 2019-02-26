@@ -9,7 +9,3 @@ musicianInstrument[i]=musicianString;
 }
 return musicianInstrument;
 }
-
-function sayHeyFriend(name) {
-  debugger;
-}
